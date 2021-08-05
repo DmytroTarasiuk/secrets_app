@@ -4,7 +4,7 @@ Secrets application allows you to share your secret online anonimously. It uses 
 
 The website has the highest level of security user's passwords and allows you to log in within Google.
 
-Techologies used: Node.js, express.js,  MongoDB, EJS
+Techologies used: **Node.js, express.js,  MongoDB, EJS, HTML, CSS**
 
 
 To start using locally you will need to:
